@@ -2,4 +2,4 @@
 
 > 原文地址：https://docs.graphene-python.org/projects/django/en/latest/
 
-框架graphene-django的中文翻译，graphene-django doc translated to Chinese
+框架graphene-django的中文翻译
